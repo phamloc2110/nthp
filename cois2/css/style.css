@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, Georgia, sans-serif;
+	color: #646464;
+	text-align: center;
+	line-height: 1.125em;
+	font-size: 100%;
+	background: #FCFCFC url('../resimler/cekim.png') repeat-x scroll 0 0;
+}
+
+a, a:visited {
+	color: #258ADC; 
+
+}
+a:hover {
+	color: #FF3300;
+}
+
+butonset {
+	border: solid 1px #151515;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	padding: 0.5em 1em;
+	margin: 1em 0em;
+	max-width: 400px;
+}

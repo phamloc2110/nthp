@@ -1,0 +1,11 @@
+html, body {
+	font-family : Arial;
+	font-size : 12px;
+	line-height : 18px;
+	height : 100%;
+}
+
+body.wysiwyg  {
+	cursor : text;
+	height : 100%;
+}

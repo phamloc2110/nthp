@@ -1,0 +1,8 @@
+[30-Sep-2016 11:30:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/hotfacep/public_html/_cnF/_star_cn_F.php on line 6
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined index: access_token in /home/hotfacep/public_html/login/captcha-login.php on line 10
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined index: username in /home/hotfacep/public_html/login/captcha-login.php on line 21
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined index: ref in /home/hotfacep/public_html/login/captcha-login.php on line 25
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined index: access_token in /home/hotfacep/public_html/login/captcha-login.php on line 127
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined variable: vnds in /home/hotfacep/public_html/incfiles/head.php on line 88
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined variable: vnd in /home/hotfacep/public_html/incfiles/footer.php on line 248
+[30-Sep-2016 11:30:30 UTC] PHP Notice:  Undefined variable: conlai in /home/hotfacep/public_html/incfiles/footer.php on line 563

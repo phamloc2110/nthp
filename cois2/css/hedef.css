@@ -1,0 +1,9 @@
+hedef {
+	border: solid 1px #151515;
+	-moz-border-radius: 16px;
+	-webkit-border-radius: 16px;
+	border-radius: 16px;
+	padding: 0.5em 1em;
+	margin: 1em 0em;
+	max-width: 800px;
+}
